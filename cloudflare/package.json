@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "io.tocq",
+  "version": "0.0.1",
+  "description": "A cloudflare backend to store crypted data from tocq.io.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Philipp Suter <suter.philipp@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

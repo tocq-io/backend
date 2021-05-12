@@ -1,0 +1,11 @@
+name = "io"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+
+kv_namespaces = [
+	 { binding = "tocq_data", preview_id = "3c57ba6a71384400908636ad8fb349a9" }
+]
